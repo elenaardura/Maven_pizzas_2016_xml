@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Reporte_Pizzerías_Maven>
+  <Reporte_calidad_de_los_datos>
+    <data_dictionary>
+      <Table>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </Table>
+      <Field>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </Field>
+      <Description>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </Description>
+      <Porcentaje>
+        <tipos_de_datos>nan</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </Porcentaje>
+    </data_dictionary>
+    <order_details>
+      <order_details_id>
+        <tipos_de_datos>int64</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </order_details_id>
+      <order_id>
+        <tipos_de_datos>int64</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </order_id>
+      <pizza_id>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>5673.0</datos_nan>
+        <datos_null>5673.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </pizza_id>
+      <quantity>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>4726.0</datos_nan>
+        <datos_null>4726.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </quantity>
+      <Porcentaje>
+        <tipos_de_datos>nan</tipos_de_datos>
+        <datos_nan>21.0</datos_nan>
+        <datos_null>21.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </Porcentaje>
+    </order_details>
+    <orders>
+      <order_id>
+        <tipos_de_datos>int64</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </order_id>
+      <date>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>2353.0</datos_nan>
+        <datos_null>2353.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </date>
+      <time>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>2038.0</datos_nan>
+        <datos_null>2038.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </time>
+      <Porcentaje>
+        <tipos_de_datos>nan</tipos_de_datos>
+        <datos_nan>20.0</datos_nan>
+        <datos_null>20.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </Porcentaje>
+    </orders>
+    <pizzas>
+      <pizza_id>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </pizza_id>
+      <pizza_type_id>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </pizza_type_id>
+      <size>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </size>
+      <price>
+        <tipos_de_datos>float64</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </price>
+      <Porcentaje>
+        <tipos_de_datos>nan</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </Porcentaje>
+    </pizzas>
+    <pizza_types>
+      <pizza_type_id>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </pizza_type_id>
+      <name>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </name>
+      <category>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </category>
+      <ingredients>
+        <tipos_de_datos>object</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </ingredients>
+      <Porcentaje>
+        <tipos_de_datos>nan</tipos_de_datos>
+        <datos_nan>0.0</datos_nan>
+        <datos_null>0.0</datos_null>
+        <datos_none>0.0</datos_none>
+      </Porcentaje>
+    </pizza_types>
+  </Reporte_calidad_de_los_datos>
+  <Reporte_media_inredientes_por_semana>
+    <Caramelized_Onions atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">8</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">400</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">0.4</Cantidad_en_kilos>
+    </Caramelized_Onions>
+    <Prosciutto atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">8</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">400</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">0.4</Cantidad_en_kilos>
+    </Prosciutto>
+    <Barbecue_Sauce atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">91</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4550</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.55</Cantidad_en_kilos>
+    </Barbecue_Sauce>
+    <Calabrese_Salami atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">72</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3600</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.6</Cantidad_en_kilos>
+    </Calabrese_Salami>
+    <Provolone_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">73</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3650</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.65</Cantidad_en_kilos>
+    </Provolone_Cheese>
+    <Blue_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">73</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3650</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.65</Cantidad_en_kilos>
+    </Blue_Cheese>
+    <Tomatoes atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">982</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">49100</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">49.1</Cantidad_en_kilos>
+    </Tomatoes>
+    <Pears atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">8</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">400</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">0.4</Cantidad_en_kilos>
+    </Pears>
+    <Prosciutto_di_San_Daniele atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">49</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">2450</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">2.45</Cantidad_en_kilos>
+    </Prosciutto_di_San_Daniele>
+    <Thyme atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">8</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">400</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">0.4</Cantidad_en_kilos>
+    </Thyme>
+    <Fontina_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">119</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">5950</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">5.95</Cantidad_en_kilos>
+    </Fontina_Cheese>
+    <Artichokes atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">200</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">10000</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">10.0</Cantidad_en_kilos>
+    </Artichokes>
+    <Anchovies atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">50</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">2500</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">2.5</Cantidad_en_kilos>
+    </Anchovies>
+    <Chorizo_Sausage atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">34</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">1700</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">1.7</Cantidad_en_kilos>
+    </Chorizo_Sausage>
+    <Barbecued_Chicken atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">91</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4550</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.55</Cantidad_en_kilos>
+    </Barbecued_Chicken>
+    <Pesto_Sauce atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">96</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.8</Cantidad_en_kilos>
+    </Pesto_Sauce>
+    <Sliced_Ham atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">79</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3950</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.95</Cantidad_en_kilos>
+    </Sliced_Ham>
+    <Romano_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">73</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3650</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.65</Cantidad_en_kilos>
+    </Romano_Cheese>
+    <Sun_dried_Tomatoes atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">63</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3150</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.15</Cantidad_en_kilos>
+    </Sun_dried_Tomatoes>
+    <Goat_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">131</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">6550</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">6.55</Cantidad_en_kilos>
+    </Goat_Cheese>
+    <Ricotta_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">87</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4350</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.35</Cantidad_en_kilos>
+    </Ricotta_Cheese>
+    <Luganega_Sausage atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">63</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3150</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.15</Cantidad_en_kilos>
+    </Luganega_Sausage>
+    <Soppressata_Salami atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">34</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">1700</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">1.7</Cantidad_en_kilos>
+    </Soppressata_Salami>
+    <Green_Peppers atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">184</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">9200</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">9.2</Cantidad_en_kilos>
+    </Green_Peppers>
+    <Feta_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">162</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">8100</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">8.1</Cantidad_en_kilos>
+    </Feta_Cheese>
+    <Green_Olives atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">210</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">10500</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">10.5</Cantidad_en_kilos>
+    </Green_Olives>
+    <Smoked_Gouda_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">73</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3650</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.65</Cantidad_en_kilos>
+    </Smoked_Gouda_Cheese>
+    <Brie_Carre_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">8</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">400</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">0.4</Cantidad_en_kilos>
+    </Brie_Carre_Cheese>
+    <Chicken atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">323</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">16150</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">16.15</Cantidad_en_kilos>
+    </Chicken>
+    <Oregano atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">55</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">2750</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">2.75</Cantidad_en_kilos>
+    </Oregano>
+    <Red_Peppers atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">601</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">30050</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">30.05</Cantidad_en_kilos>
+    </Red_Peppers>
+    <Spinach atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">336</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">16800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">16.8</Cantidad_en_kilos>
+    </Spinach>
+    <Beef_Chuck_Roast atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">57</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">2850</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">2.85</Cantidad_en_kilos>
+    </Beef_Chuck_Roast>
+    <Peperoncini_verdi atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">76</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.8</Cantidad_en_kilos>
+    </Peperoncini_verdi>
+    <Parmigiano_Reggiano_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">87</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4350</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.35</Cantidad_en_kilos>
+    </Parmigiano_Reggiano_Cheese>
+    <Kalamata_Olives atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">119</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">5950</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">5.95</Cantidad_en_kilos>
+    </Kalamata_Olives>
+    <Gorgonzola_Piccante_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">87</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4350</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.35</Cantidad_en_kilos>
+    </Gorgonzola_Piccante_Cheese>
+    <Red_Onions atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">710</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">35500</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">35.5</Cantidad_en_kilos>
+    </Red_Onions>
+    <Eggplant atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">31</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">1550</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">1.55</Cantidad_en_kilos>
+    </Eggplant>
+    <Arugula atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">49</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">2450</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">2.45</Cantidad_en_kilos>
+    </Arugula>
+    <Cilantro atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">136</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">6800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">6.8</Cantidad_en_kilos>
+    </Cilantro>
+    <Mozzarella_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">401</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">20050</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">20.05</Cantidad_en_kilos>
+    </Mozzarella_Cheese>
+    <Plum_Tomatoes atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">33</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">1650</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">1.65</Cantidad_en_kilos>
+    </Plum_Tomatoes>
+    <Garlic atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">1032</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">51600</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">51.6</Cantidad_en_kilos>
+    </Garlic>
+    <Alfredo_Sauce atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">35</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">1750</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">1.75</Cantidad_en_kilos>
+    </Alfredo_Sauce>
+    <Zucchini atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">81</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4050</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.05</Cantidad_en_kilos>
+    </Zucchini>
+    <Jalapeno_Peppers atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">221</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">11050</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">11.05</Cantidad_en_kilos>
+    </Jalapeno_Peppers>
+    <Coarse_Sicilian_Salami atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">63</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3150</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.15</Cantidad_en_kilos>
+    </Coarse_Sicilian_Salami>
+    <Corn atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">136</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">6800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">6.8</Cantidad_en_kilos>
+    </Corn>
+    <Asiago_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">120</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">6000</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">6.0</Cantidad_en_kilos>
+    </Asiago_Cheese>
+    <Italian_Sausage atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">34</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">1700</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">1.7</Cantidad_en_kilos>
+    </Italian_Sausage>
+    <_Nduja_Salami atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">36</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">1800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">1.8</Cantidad_en_kilos>
+    </_Nduja_Salami>
+    <Gouda_Cheese atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">85</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4250</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.25</Cantidad_en_kilos>
+    </Gouda_Cheese>
+    <Bacon atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">110</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">5500</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">5.5</Cantidad_en_kilos>
+    </Bacon>
+    <Friggitello_Peppers atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">36</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">1800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">1.8</Cantidad_en_kilos>
+    </Friggitello_Peppers>
+    <Genoa_Salami atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">56</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">2800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">2.8</Cantidad_en_kilos>
+    </Genoa_Salami>
+    <Thai_Sweet_Chilli_Sauce atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">94</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4700</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.7</Cantidad_en_kilos>
+    </Thai_Sweet_Chilli_Sauce>
+    <Onions atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">63</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">3150</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">3.15</Cantidad_en_kilos>
+    </Onions>
+    <Artichoke atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">85</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">4250</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">4.25</Cantidad_en_kilos>
+    </Artichoke>
+    <Capocollo atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">258</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">12900</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">12.9</Cantidad_en_kilos>
+    </Capocollo>
+    <Chipotle_Sauce atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">136</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">6800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">6.8</Cantidad_en_kilos>
+    </Chipotle_Sauce>
+    <Pancetta atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">36</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">1800</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">1.8</Cantidad_en_kilos>
+    </Pancetta>
+    <Pepperoni atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">318</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">15900</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">15.9</Cantidad_en_kilos>
+    </Pepperoni>
+    <Mushrooms atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">311</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">15550</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">15.55</Cantidad_en_kilos>
+    </Mushrooms>
+    <Pineapple atributo="ingrediente">
+      <Num_pizzas_en_proporcion_todas_s atributo="numero">173</Num_pizzas_en_proporcion_todas_s>
+      <Cantidad_en_gramos_50_gr_por_pizza atributo="gr">8650</Cantidad_en_gramos_50_gr_por_pizza>
+      <Cantidad_en_kilos atributo="Kg">8.65</Cantidad_en_kilos>
+    </Pineapple>
+  </Reporte_media_inredientes_por_semana>
+</Reporte_Pizzerías_Maven>
